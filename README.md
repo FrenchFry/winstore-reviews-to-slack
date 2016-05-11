@@ -1,5 +1,9 @@
 # winstore-reviews-to-slack
 Grab the windows store apps reviews from the API, and push them to a slack hook
+So you can get something like that :
+
+![reviews in slack](http://i.imgur.com/1QM8Z5s.png)
+
 
 curl module and ssl module must be enabled on the server.
 
